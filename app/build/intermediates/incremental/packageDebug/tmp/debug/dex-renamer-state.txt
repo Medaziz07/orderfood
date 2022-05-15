@@ -1,0 +1,7 @@
+#Sun May 15 03:33:00 WAT 2022
+base.1=C\:\\Users\\medaz\\Desktop\\orderfood\\FoodOrderApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\medaz\\Desktop\\orderfood\\FoodOrderApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

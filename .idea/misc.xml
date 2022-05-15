@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/medaz/Desktop/FoodApp-main/FoodOrderApp/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/medaz/Desktop/FoodApp-main/FoodOrderApp/app/src/main/res/layout/activity_order_succeess.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/medaz/Desktop/FoodApp-main/FoodOrderApp/app/src/main/res/layout/activity_place_your_order.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/medaz/Desktop/FoodApp-main/FoodOrderApp/app/src/main/res/layout/activity_restaurant_menu.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/medaz/Desktop/FoodApp-main/FoodOrderApp/app/src/main/res/layout/activity_splash.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/medaz/Desktop/FoodApp-main/FoodOrderApp/app/src/main/res/layout/place_order_recycler_row.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/medaz/Desktop/FoodApp-main/FoodOrderApp/app/src/main/res/layout/recycler_row.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/medaz/Desktop/FoodApp-main/FoodOrderApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2985" />
+        <entry key="..\:/Users/medaz/Desktop/orderfood/FoodOrderApp/app/src/main/res/drawable/button_bg.xml" value="0.2985" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
